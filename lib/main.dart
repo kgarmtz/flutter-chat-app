@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       // Definimos nuestras rutas
       routes: appRoutes,
       // Esta ruta se encargará de verificar si el usuario esta autenticado o no
-      initialRoute: 'login',
+      initialRoute: 'chat',
       
     );
   }
